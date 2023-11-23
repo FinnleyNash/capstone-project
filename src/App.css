@@ -40,6 +40,7 @@ nav ul li a:hover{
 .menu-icon {
   display: none;
   cursor: pointer;
+  padding: 1em;
 }
 
 .bar {
