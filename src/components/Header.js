@@ -10,7 +10,7 @@ const Header = () => {
                 <h2>Little Lemon</h2>
                 <h3>Chicago</h3>
                 <p>We are a family owned Mediterranean restaurant, located on Maldove street in Chicago, Illinois. We focus on traditional recipes served with a modern twist.</p>
-                <Link to="/"><button aria-label='On Click'>Reserve a Table</button></Link>
+                <Link to="/booking"><button aria-label='On Click'>Reserve a Table</button></Link>
             </div>
 
             <div className='banner-img'>

@@ -127,7 +127,7 @@ button {
 
 
 form, .comfirm{
-  padding: 10px 13%;
+  padding: 20px 13%;
 }
 
 .formField{
@@ -159,6 +159,12 @@ input, label{
 
 .comfirm span{
   color: blue;
+}
+
+.confirm {
+  text-align: center;
+  padding-top: 4em;
+  font-size: 2em;
 }
 
 
