@@ -37,12 +37,6 @@ const Nav = () => {
                 <a href='/'>Menu</a>
             </li>
             <li>
-                <a href='/'>About Us</a>
-            </li>
-            <li>
-                <a href='/'>Reviews</a>
-            </li>
-            <li>
                 <a href='/'>Login</a>
             </li>
         </ul>
