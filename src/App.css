@@ -35,6 +35,7 @@ nav ul li {
 
 nav ul li a{
   color: #000;
+  cursor: pointer;
 }
 
 nav ul li a:hover{
@@ -255,9 +256,21 @@ footer ul{
   padding: 0;
 }
 
-footer ul li{
+footer ul li {
   padding: 8px 0;
+  font-size: 18px;
 }
+
+footer ul li a{
+  color: #333333;
+  cursor: pointer;
+}
+
+footer ul li a:hover{
+  text-decoration: underline;
+}
+
+
 
 
 @media screen and (max-width: 768px){
