@@ -18,4 +18,4 @@ test('Initialize/Update Times', () => {
   render(<BrowserRouter><App /></BrowserRouter>);
   const reserveButton = screen.getByRole("button");
   fireEvent.click(reserveButton);
-});
+}); 
